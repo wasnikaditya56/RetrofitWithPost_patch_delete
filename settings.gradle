@@ -1,0 +1,2 @@
+rootProject.name = "RetrofitWithPost_patch_delete"
+include ':app'
